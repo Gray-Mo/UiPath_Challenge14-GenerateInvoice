@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Free Invoice Generator",
+  "Type": "App",
+  "Id": "FsoOmp1WbUKAtYuAnbQPdQ",
+  "Reference": "4LfJU8Ont0KTHJJRrPq-ow/FsoOmp1WbUKAtYuAnbQPdQ",
+  "Created": "2025-01-02T07:57:27.428334Z",
+  "Updated": "2025-01-02T07:57:27.428334Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

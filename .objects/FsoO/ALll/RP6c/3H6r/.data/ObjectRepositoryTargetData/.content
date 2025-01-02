@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="trk-TjY-TkiNSjveF122SA" Reference="4LfJU8Ont0KTHJJRrPq-ow/3H6rI3PY0E-eb81GIgdUcA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="invoice-generator.com" CVScreenId="6d30883a-995b-472f-bf80-1fb29f090965" CvElementArea="1013, 725, 89, 41" CvType="InputBox" DesignTimeRectangle="1013, 684, 88, 37" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='number' tag='INPUT' class='form-control form-control-sm ng-pristine ng-untouched ng-valid ng-valid-required' aaname='' /&gt;" Guid="874ceabf-678c-4ebb-9de5-54549d04941d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Free Invoice Generator' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="6d30883a-995b-472f-bf80-1fb29f090965" CvTextArea="1099, 851, 52, 13" CvTextArgument="Subtotal" CvType="Text" DesignTimeRectangle="859, 797, 309, 37" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='1001' tag='INPUT' type='text' class='input-label form-control form-control-sm ng-pristine ng-untouched ng-valid' aaname='' /&gt;" Guid="b2103ea5-7110-4715-9ede-8c1f23771195" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.FullSelectorArgument>
+        <p:InArgument x:TypeArguments="x:String">
+          <p:CSharpValue x:TypeArguments="x:String">string.Format("&lt;webctrl type='number' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;input' idx='{0}' /&gt;", uiElementID)</p:CSharpValue>
+        </p:InArgument>
+      </TargetAnchorable.FullSelectorArgument>
+      <imageRef attrName="InformativeScreenshot" originalValue="bd927004b5cfedf0d7c87d00129550e9.png" xmlns="">05b0GeZMjuU-pNF_YQBa2ag</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="1" Name="uiElementID" />
+    </scg:List>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

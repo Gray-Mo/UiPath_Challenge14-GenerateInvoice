@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Free Invoice Generator",
+  "Type": "Screen",
+  "Id": "RP6cs26I80KAuIKk_TbL1Q",
+  "Reference": "4LfJU8Ont0KTHJJRrPq-ow/RP6cs26I80KAuIKk_TbL1Q",
+  "ParentRef": "4LfJU8Ont0KTHJJRrPq-ow/ALllFYQcOEK7myPEhE3RNA",
+  "Created": "2025-01-02T07:57:27.4917912Z",
+  "Updated": "2025-01-02T07:57:27.4917912Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
